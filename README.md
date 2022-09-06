@@ -12,9 +12,6 @@ The process is (globally) as follow:
 
 *Warning: Running OCR on each frame of a video is a long process*
 
-fdsf
-
-
 ## Requirements
 ---
 
